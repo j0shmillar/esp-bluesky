@@ -6,7 +6,7 @@ WIP
 
 Set up [esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 
-Run ```idf.py menuconfig``` and paste BlueSky details under ```components/BlueSky configuration``` and Wifi details under ```components\Wifi configuration```. 
+Run ```idf.py menuconfig``` and paste BlueSky/Wifi details under ```components/{BlueSky | Wifi} configuration```
 
 then 
 
