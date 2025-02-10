@@ -1,6 +1,6 @@
-WIP
+**WIP**
 
-**Reimplementation** of [**libbluesky**](https://github.com/briandowns/libbluesky), a **C/C++ library** for the BlueSky API, for the **ESP32**
+Reimplementation of [**libbluesky**](https://github.com/briandowns/libbluesky), a C/C++ library for the BlueSky API, for the **ESP32**
 
 ## Setup
 
