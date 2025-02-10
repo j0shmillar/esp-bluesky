@@ -1,0 +1,28 @@
+menu "Bluesky Configuration"
+
+config BSKY_HANDLE
+    string "Bluesky Handle"
+    help
+        Enter your Bluesky handle.
+
+config BSKY_PASSWORD
+    string "Bluesky Password"
+    help
+        Enter your Bluesky password.
+
+endmenu
+
+menu "WiFi Configuration"
+
+config WIFI_SSID
+    string "WiFi SSID"
+    help
+        Enter your WiFi SSID.
+
+config WIFI_PASS
+    string "WiFi Password"
+    help
+        Enter your WiFi password.
+
+endmenu
+
